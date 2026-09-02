@@ -1,0 +1,2 @@
+stress-ng: info:  [7550] setting to a 1 min run per stressor
+stress-ng: info:  [7550] dispatching hogs: 8 sync-file
