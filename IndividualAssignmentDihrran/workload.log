@@ -1,0 +1,9 @@
+[2026-08-04 14:20:40] stress-ng: info:  [11663] setting to a 30 secs run per stressor
+[2026-08-04 14:20:40] stress-ng: info:  [11663] dispatching hogs: 1 vm
+[2026-08-04 14:20:50] stress-ng: info:  [11671] vm: gave up trying to mmap 256.0M after 100 attempts, errno=12 (Cannot allocate memory), skipping stressor
+[2026-08-04 14:20:50] stress-ng: warn:  [11663] vm: [11669] aborted early, out of system resources
+[2026-08-04 14:20:50] stress-ng: info:  [11663] skipped: 1: vm (1)
+[2026-08-04 14:20:50] stress-ng: info:  [11663] passed: 0
+[2026-08-04 14:20:50] stress-ng: info:  [11663] failed: 0
+[2026-08-04 14:20:50] stress-ng: info:  [11663] metrics untrustworthy: 0
+[2026-08-04 14:20:50] stress-ng: info:  [11663] successful run completed in 9.93 secs
