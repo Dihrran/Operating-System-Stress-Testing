@@ -1,7 +1,0 @@
-
-Date: Tue Jul 28 09:05:57 PM +08 2026
-Hostname: localhost.localdomain
-Current User: dihrran
-Current Directory: /home/dihrran/AssignmentBashscripting
-
-
